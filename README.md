@@ -3,8 +3,8 @@
    <title> MY WEBSITE </title>
   </head>
   <body>
-    <h1> My first web
-   </h2>
+    <h1> My first website</h1>
+  <h2> This is my second website</h2>
   </body>
 </html>
 
