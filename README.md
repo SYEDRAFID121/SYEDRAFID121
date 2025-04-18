@@ -1,14 +1,12 @@
-<html>
-  <head>
-   <title> MY WEBSITE </title>
-  </head>
-  <body>
-    <h1> My first website</h1>
-  <h2> This is my second website</h2>
-  </body>
-</html>
+Hi there 👋
+🔭 I’m currently working on Coding Digital Marketing Photoshop Logo Designs Technologies.
+😄 I'm a Certified Introduction To Programming Language And Web Software and Mobile Application developer.
+📫 How to reach me: rafidsyed85@gmail.com
+✨ Checkout my Portfolio: 
+🔧 Technologies & Tools
+HTML5 CSS3 Bootstrap And I Learn PHP MYSQL JavaScript ReactJS NodeJS  MongoDB NPM Git Docker kubernetes Nextjs Typescript
 
-<!---
-SYEDRAFID121/SYEDRAFID121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Follow me
+Linkedin: Syed Rafid
+facebook: Syed Muhammad Rafid Zada 
+what's app:03167063677
